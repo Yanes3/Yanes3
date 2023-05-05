@@ -3,7 +3,7 @@ console. log("Hello world!");👋
 Hola mi nombre es Cristian Yanes Espitia.
 Soy de Colombia Bogota.
 
-Me encanta los videjuegos y las tecnologia.
+Me encanta los videjuegos y la tecnologia.
 
 Actualmente este es mi repositorio donde estoy colgando mi proyectos de aprendizaje tanto autodicta o algunos progamas de formacion a los cuales he aplicado. Este mismo es con fines academicos de formacion como desarrollador Backend y de mi campo de ingeneria de sistemas.
 
